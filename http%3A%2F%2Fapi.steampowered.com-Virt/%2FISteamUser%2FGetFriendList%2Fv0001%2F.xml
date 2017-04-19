@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:restMockAction name="/ISteamUser/GetFriendList/v0001/" method="GET" resourcePath="/ISteamUser/GetFriendList/v0001/" id="ab3ddd03-737a-416f-a273-6e74e6d64b9b" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="ab3ddd03-737a-416f-a273-6e74e6d64b9bfileName">%2FISteamUser%2FGetFriendList%2Fv0001%2F</con:setting></con:settings><con:defaultResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Response 1</con:defaultResponse><con:dispatchStyle>SEQUENCE</con:dispatchStyle><con:dispatchConfig/><con:dispatchXPath/><con:parameterDispatcherRuleContainer/><con:routeScript/><con:response name="Response 1" id="f2bef879-c906-45e2-9a02-f55676450ac1" httpResponseStatus="200" mediaType="application/json" encoding="UTF-8" dataSource=""><con:settings/><con:responseContent>{"friendslist": {"friends": [
+      {
+      "steamid": "xxx1",
+      "relationship": "enemy",
+      "friend_since": dummy1
+   },
+      {
+      "steamid": "xxx2",
+      "relationship": "friend",
+      "friend_since": dummy2
+   },
+      {
+      "steamid": "xxx3",
+      "relationship": "friend",
+      "friend_since": dummy3
+   }
+]}}</con:responseContent></con:response></con:restMockAction>
