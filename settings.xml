@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<con:soapui-project id="1b5c775e-d8b9-4b7f-b520-ed6da0a1eba1" activeEnvironment="Default environment" name="WS_API" resourceRoot="" soapui-version="6.0.0" abortOnError="false" runType="SEQUENTIAL" lastOpened="2017-04-19T13:59:39.595+05:30" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.actions.iface.tools.soapui.TestRunnerAction@values-local"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+<con:soapui-project id="1b5c775e-d8b9-4b7f-b520-ed6da0a1eba1" activeEnvironment="mock" name="WS_API" resourceRoot="" soapui-version="6.0.0" abortOnError="false" runType="SEQUENTIAL" lastOpened="2017-04-19T18:13:06.795+05:30" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.actions.iface.tools.soapui.TestRunnerAction@values-local"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
   <con:entry key="Environment" value="Default"/>
   <con:entry key="Global Properties" value=""/>
   <con:entry key="TestSuite" value="SteamDemo"/>
