@@ -15,4 +15,4 @@
       "relationship": "friend",
       "friend_since": dummy3
    }
-]}}</con:responseContent></con:response></con:restMockAction>
+]}}</con:responseContent></con:response><con:response name="Response 2" id="8eb5cbdb-11b1-48fe-982a-02cd3e417e20" httpResponseStatus="200" dataSource=""><con:settings/><con:responseContent/></con:response></con:restMockAction>
